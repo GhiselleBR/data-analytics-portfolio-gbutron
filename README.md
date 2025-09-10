@@ -63,6 +63,10 @@ Análisis de más de **550.000 registros** de ventas de vehículos usados con el
 
 📸 **Vista previa del dashboard**  
 ![Dashboard](imagenes/dashboard.png)
+![Dashboard](imagenes/dashboard2.png)
+![Dashboard](imagenes/dashboard3.png)
+![Dashboard](imagenes/dashboard4.png)
+![Dashboard](imagenes/dashboard5.png)
 
 🔗 **Enlace al dashboard en Power BI**
 https://app.powerbi.com/links/sB0X4B23tC?ctid=b1f0082a-61cf-4abf-a4d9-7e81f64c920a&pbi_source=linkShare
@@ -82,9 +86,9 @@ https://app.powerbi.com/links/sB0X4B23tC?ctid=b1f0082a-61cf-4abf-a4d9-7e81f64c92
 
 - Priorizar compra de vehículos **en excelente estado y recientes**.
 - Implementar **políticas de pricing dinámico**.
-- Reforzar operaciones en estados con mejor margen (ej. Washington).
-- Mantener una oferta equilibrada entre marcas populares y premium.
-- Optimizar stock según preferencias del cliente.
+- **Reforzar operaciones** en estados con mejor margen (ej. Washington).
+- Mantener una **oferta equilibrada entre marcas populares y premium**.
+- **Optimizar stock** según preferencias del cliente.
 
 ---
 
