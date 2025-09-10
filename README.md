@@ -113,5 +113,5 @@ ventas-autos-usados/
 ## 📫 Contacto
 
 - 📧 ghiselle.b@gmail.com  
-- 🔗 [LinkedIn - Ghiselle](https://www.linkedin.com/in/ghiselle-butron-reyes/)  
+- 🔗 [LinkedIn - Ghiselle Butron Reyes](https://www.linkedin.com/in/ghiselle-butron-reyes/)  
 
