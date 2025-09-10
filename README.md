@@ -61,7 +61,7 @@ Análisis de más de **550.000 registros** de ventas de vehículos usados con el
 
 ## 📊 Dashboard Interactivo
 
-📸 **Vista previa del dashboard**  
+📸 **Vista del dashboard**  
 ![Dashboard](imagenes/dashboard.png)
 ![Dashboard](imagenes/dashboard2.png)
 ![Dashboard](imagenes/dashboard3.png)
