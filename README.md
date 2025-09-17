@@ -1,7 +1,8 @@
 # 🚗 Data-Driven Insights para la Optimización de Ventas de Vehículos Usados en EE.UU.
 
 **Autores:** Ghiselle Butron & Guido Riega  
-**Bootcamp Data analytics – Unicorn Academy**
+**Bootcamp Data Analytics – Unicorn Academy**
+**08/2025**
 
 ---
 
