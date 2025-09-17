@@ -83,7 +83,7 @@ https://app.powerbi.com/links/sB0X4B23tC?ctid=b1f0082a-61cf-4abf-a4d9-7e81f64c92
 
 ---
 
-## ✅ Recomendaciones Estratégicas
+## ✅ Resumen Recomendaciones Estratégicas
 
 - Priorizar compra de vehículos con categorías **en excelente estado y recientes**.
 - Implementar **políticas de pricing dinámico**.
