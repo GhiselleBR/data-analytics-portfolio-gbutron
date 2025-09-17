@@ -7,7 +7,7 @@
 
 ## 📌 Resumen
 
-Análisis de más de **550.000 registros** de ventas de vehículos usados con el objetivo de mejorar los **márgenes de ganancia**, entender el **comportamiento del cliente**, y optimizar la estrategia comercial de AutoDrive, una empresa automotriz con operaciones en EE.UU., Canadá y Puerto Rico.
+Análisis de más de **550.000 registros** de ventas de vehículos usados con el objetivo de mejorar los **márgenes de ganancia**, entender el **comportamiento del cliente**, y **optimizar la estrategia comercial** de AutoDrive, una empresa automotriz con operaciones en EE.UU., Canadá y Puerto Rico.
 
 ---
 
@@ -23,10 +23,10 @@ Análisis de más de **550.000 registros** de ventas de vehículos usados con el
 ## 🗃️ Dataset
 
 - Fuente: Datos internos de AutoDrive (datos extraídos de Kaggle)
-- Registros: 558.837 ventas
+- Total registros: 558.837 ventas
 - Período de análisis: Dic 2014 – Jul 2015
-- Formato: `.csv`
-- Variables: marca, modelo, año, estado, transmisión, color, precio de mercado, precio de venta, ubicación, etc.
+- Formato dataset: `.csv`
+- Variables de estudio: marca, modelo, año, estado, transmisión, color, precio de mercado, precio de venta, ubicación, etc.
 
 ---
 
@@ -41,7 +41,7 @@ Análisis de más de **550.000 registros** de ventas de vehículos usados con el
 
 ## 🔄 Proceso de Desarrollo
 
-### 1. Limpieza y modelado de datos (SQL)
+### 1. Limpieza y modelado de datos (MySQL)
 - Eliminación de registros nulos, duplicados e inconsistentes.
 - Estandarización de marcas, colores, carrocerías, etc.
 - Conversión de datos a tipos adecuados.
@@ -73,21 +73,21 @@ https://app.powerbi.com/links/sB0X4B23tC?ctid=b1f0082a-61cf-4abf-a4d9-7e81f64c92
 
 ---
 
-## 🔍 Hallazgos Principales
+## 🔍 Principales hallazgos
 
-- **41%** de los vehículos en buen estado se vendieron **por debajo del valor de mercado**.
-- Estados como **Florida y California** tienen mucho volumen pero baja rentabilidad.
-- Clientes prefieren vehículos **recientes, gama media, tipo de carrocería sedán y SUVs, tipo de transmisión automática y colores neutros: negro, blanco y plateado**.
+- **41%** de los vehículos con categoría en buen estado se vendieron **por debajo del valor de mercado**.
+- Un **alto volumen de ventas no garantiza una mayor rentabilidad**: estados como Florida y California destacan por su elevado número de transacciones pero presentan márgenes de ganancia significativamente bajos.
+- Clientes prefieren vehículos de **reciente fabricación, de gama media, de tipo de carrocería sedán y SUVs, tipo de transmisión automática y colores neutros**: negro, blanco y plateado.
 - Las ventas se concentran entre los días **martes y jueves**.
 
 ---
 
 ## ✅ Recomendaciones Estratégicas
 
-- Priorizar compra de vehículos **en excelente estado y recientes**.
+- Priorizar compra de vehículos con categorías **en excelente estado y recientes**.
 - Implementar **políticas de pricing dinámico**.
 - **Reforzar operaciones** en estados con mejor margen (ej. Washington).
-- Mantener una **oferta equilibrada entre marcas populares y premium**.
+- Mantener una **oferta equilibrada entre marcas populares y marcas premium**.
 - **Optimizar stock** según preferencias del cliente.
 
 ---
