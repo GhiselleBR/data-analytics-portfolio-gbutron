@@ -137,8 +137,18 @@ Este proyecto analiza más de **550.000 registros** de ventas de vehículos usad
 ├── README.md                # Documentación del proyecto
 ├── imagenes/                # Capturas del dashboard en Power BI
 └── sql/                     # Scripts de limpieza y modelado en MySQL
-    └── 01_cleaning_and_modeling.sql
+
 ```
+### 🧹 Data Cleaning (SQL)
+
+Los siguientes archivos contienen el proceso completo de construcción y limpieza de la base de datos antes de conectar con Power BI:
+
+- [📄 BASE_DATOS_TABLA_dump](./sql/proy_integrador_analisis_ventas_coches_usados_BASE_DATOS_TABLA_dump.sql) — creación de tablas base y carga inicial de datos.  
+- [🧹 LIMPIEZA](./sql/proy_integrador_analisis_ventas_coches_usados_LIMPIEZA.sql) — tratamiento de valores nulos, duplicados y normalización de campos.  
+- [🧩 MODELO_RELACIONAL](./sql/proy_integrador_analisis_ventas_coches_usados_MODELO_RELACIONAL.sql) — definición de claves primarias/foráneas y relaciones entre tablas.  
+- [👀 VISTA_REGISTROS_ELIMINADOS](./sql/proy_integrador_analisis_ventas_coches_usados_VISTA_REGISTROS_ELIMINADOS.sql) — generación de vista con registros filtrados para control de calidad.
+
+> 💡 Todos los scripts están disponibles en la carpeta `/sql` del repositorio.
 
 ---
 
