@@ -23,7 +23,7 @@ Este proyecto analiza más de **550.000 registros** de ventas de vehículos usad
 
 ## 🗃️ Dataset
 
-- **Fuente:** Datos internos simulados de AutoDrive (adaptados de un dataset público de Kaggle en [Kaggle - Used Cars Dataset](https://www.kaggle.com/datasets/orgesleka/used-cars-database)).
+- **Fuente:** Datos internos simulados de AutoDrive (adaptados de un dataset público de Kaggle en [Kaggle - Used Cars Dataset]((https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data))).
 - **Volumen:** 558.837 registros de ventas individuales.
 - **Periodo de análisis:** diciembre 2014 – julio 2015.
 - **Formato original:** `.csv` con codificación UTF-8.
