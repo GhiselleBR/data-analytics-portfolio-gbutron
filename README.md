@@ -139,6 +139,8 @@ Este proyecto analiza más de **550.000 registros** de ventas de vehículos usad
 └── sql/                     # Scripts de limpieza y modelado en MySQL
 
 ```
+---
+
 ### 🧹 Data Cleaning (SQL)
 
 Los siguientes archivos contienen el proceso completo de construcción y limpieza de la base de datos antes de conectar con Power BI:
